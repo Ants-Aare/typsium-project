@@ -117,5 +117,3 @@
   }
   $upright(display(result))$
 }
-
-#ce("H2O -> H2 + O2", condition: "elecrolysis")
